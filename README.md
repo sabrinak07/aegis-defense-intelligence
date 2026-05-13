@@ -147,9 +147,7 @@ The sample data is included for portfolio and documentation purposes. The full a
 
 ## Demo Video
 
-Demo video:
-
-[Add demo video link here]
+[Watch the Aegis demo](https://www.youtube.com/watch?v=kK_ZyJ-j5sk)
 
 ---
 
