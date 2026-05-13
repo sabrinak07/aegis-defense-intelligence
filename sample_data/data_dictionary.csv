@@ -1,0 +1,9 @@
+field_name,description
+alert_id,Unique identifier for each alert
+alert_title,Short title describing the alert
+alert_score,Numeric score representing alert significance
+priority,Priority level assigned to the alert
+status,Current review status of the alert
+alert_reason,Explanation of why the alert was generated
+country,Country associated with the alert
+year,Year associated with the spending signal
