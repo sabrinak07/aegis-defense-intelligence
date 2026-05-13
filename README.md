@@ -1,4 +1,4 @@
-# Aegis: Defense Intelligence Alert Monitor
+# 🌐 Aegis: Defense Intelligence Alert Monitor
 
 Aegis is an ontology-backed defense intelligence alert monitor built with Palantir Foundry and Workshop. The project transforms public military-spending data into country-level alert records so analysts can quickly review, filter, and understand potential defense-spending shifts.
 
