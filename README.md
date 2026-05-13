@@ -114,18 +114,6 @@ The Aegis Workshop app is organized around a simple analyst workflow.
 
 ![Workshop App](screenshots/workshop-app.png)
 
-### Alert List
-
-![Alert List](screenshots/alert-list.png)
-
-### Alert Details
-
-![Alert Details](screenshots/alert-details.png)
-
-### Filters
-
-![Filters](screenshots/filters.png)
-
 ### Foundry Pipeline
 
 ![Foundry Pipeline](screenshots/foundry-pipeline.png)
@@ -133,6 +121,14 @@ The Aegis Workshop app is organized around a simple analyst workflow.
 ### Ontology Alert Object
 
 ![Ontology Alert Object](screenshots/ontology-alert-object.png)
+
+### Alert List
+
+![Alert List](screenshots/alert-list.png)
+
+### Alert Details
+
+![Alert Details](screenshots/alert-details.png)
 
 ---
 
