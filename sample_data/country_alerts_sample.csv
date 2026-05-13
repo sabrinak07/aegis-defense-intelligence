@@ -1,0 +1,4 @@
+alert_id,alert_title,alert_score,priority,status,alert_reason,country,year
+ALERT-001,High Defense Spending Increase,92,High,Open,Country showed a notable increase in military spending compared to prior years,Example Country A,2023
+ALERT-002,Moderate Spending Shift,71,Medium,In Review,Country showed a moderate year-over-year spending change,Example Country B,2022
+ALERT-003,Low Priority Spending Change,48,Low,Reviewed,Country showed a smaller spending movement that may not require immediate review,Example Country C,2021
